@@ -3,3 +3,4 @@
 - odkazy na případně změny (github?/napsat mě?)
 - Opravit obrázky
 - opravit odkaz changelog z indexu
+- přidat tagy

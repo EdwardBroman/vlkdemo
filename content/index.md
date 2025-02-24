@@ -10,10 +10,10 @@ Pod kolonkou **Explorer** se skrývá rozcestník obsahující veškerá témata
 
 **Na celém webu je možné vyhledávat i podle slov skrz kolonku "Search"**
 
-Další dvě kolonky pak obsahují [[content/Changelog|Changelog]] a informace [[O projektu]]
+Další dvě kolonky pak obsahují [[Changelog|Changelog]] a informace [[O projektu]]
 
 >[!caution] Pozor!
->Při práci s informacemi je třeba sledovat jejich aktuálnost. Některé sféry mají tendenci rychle stárnout. Proto sledujte [[content/Changelog|Changelog]] pro informace, kdy došlo k poslední úpravě
+>Při práci s informacemi je třeba sledovat jejich aktuálnost. Některé sféry mají tendenci rychle stárnout. Proto sledujte [[Changelog|Changelog]] pro informace, kdy došlo k poslední úpravě
 
 
 ## Propojování stránek
