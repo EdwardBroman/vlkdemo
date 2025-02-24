@@ -4,3 +4,4 @@
 - Opravit obrázky
 - opravit odkaz changelog z indexu
 - přidat tagy
+- v mobilní verzi upravit nabídku
