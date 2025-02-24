@@ -2,6 +2,6 @@
 - napsat v html/javascriptu audio přehrávač
 - odkazy na případně změny (github?/napsat mě?)
 - Opravit obrázky
-- opravit odkaz changelog z indexu
 - přidat tagy
-- v mobilní verzi upravit nabídku
+- trénovací data za použití callouts
+- 

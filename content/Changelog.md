@@ -3,6 +3,8 @@
 ## Verze 0.3.0 (24.2. 2025)
 - Upload první verze na Github
 - oprava odkazu na changelog index
+- oprava hamburger nabídky
+- Oprava obrázků
 ## Verze 0.2.0 (21.2. 2025)
 - Demo hospodaření jednotky
 - Demo vnitřní předpisy - odkazy

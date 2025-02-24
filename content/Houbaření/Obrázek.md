@@ -3,4 +3,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor i
 
 Tato osoba neexistuje, ale mohla by
 
-![[Pasted image 20250221165924.png]]
+![[Pasted image 20250221165924.png|300]]
+
