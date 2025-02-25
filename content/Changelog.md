@@ -1,5 +1,11 @@
 > Changelog využívá upravený semantic versioning https://semver.org/
 
+
+## Verze 0.4.0 (25.2.)
+- Otázky a odpovědi
+- Sada stránek
+- Implementace PDF
+- 
 ## Verze 0.3.0 (24.2. 2025)
 - Upload první verze na Github
 - oprava odkazu na changelog index
