@@ -4,7 +4,7 @@ title: O co jde a jak se na stránce orientovat?
 Toto je úvodní stránka, která se objeví vždy, když uživatel stránku otevře. Možná dojde ještě ke změně samotného layoutu, nicméně v tuhle chvíli se bude jednat o úvodní rozcestník témat. 
 
 >[!tip]
->Zpátky sem je pak možné se vrátit skrz kliknutí na tlačítko "Quartz 4.0"
+>Zpátky sem je pak možné se vrátit skrz kliknutí na tlačítko "VLK Falconeri"
 # Jak začít?
 Pod kolonkou **Explorer** se skrývá rozcestník obsahující veškerá témata, která jsou na stránce dostupná. Jednotlivá témata mají svoje podsložky, jako například [[1. Úvod|Hospodaření]].
 

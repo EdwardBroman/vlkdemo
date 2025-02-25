@@ -2,6 +2,8 @@
 
 ## Verue 0.4.2
 - Vzorová strana "Přebírám hospo" včetně zvuku
+- oprava indexu
+- odstranění složky test
 ## Verze 0.4.1
 - kosmetická úprava strany pdf
 ## Verze 0.4.0 (25.2.)
