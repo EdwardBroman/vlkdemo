@@ -1,1 +1,2 @@
-[[public/assets/12.pdf|12]]
+![[content/assets/12.pdf|12]]
+
