@@ -21,7 +21,7 @@ Kouzlo Quartzu spočívá v propojování stránek, aniž by musel uživatel tut
 
 **Stačí položit myš na modře podbarvené pole a objeví se další okno**
 
-![[Pasted image 20250219154715.png]]
+![[obrázek.png]]
 
 ## Graph view
 Jednotlivé stránky jsou mezi sebou propojené. Jak moc a jak spolu souvisí je možné vidět skrz **"Graph view"** vpravo nahoře. Skrz Graph view je možné se i proklikávat na jiné stránky.

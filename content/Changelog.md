@@ -1,11 +1,15 @@
 > Changelog využívá upravený semantic versioning https://semver.org/
 
-## Verue 0.4.2
+## Verze 0.4.3 (25.2.)
+- kosmetické úpravy
+
+## Verze 0.4.2
 - Vzorová strana "Přebírám hospo" včetně zvuku
 - oprava indexu
 - odstranění složky test
 ## Verze 0.4.1
 - kosmetická úprava strany pdf
+- autorská práva
 ## Verze 0.4.0 (25.2.)
 - Otázky a odpovědi
 - Sada stránek
