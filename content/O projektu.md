@@ -3,3 +3,4 @@
 
 ## Změny jsou vyhrazeny. Aktualitu verzí lze dohledat v [[content/Changelog|Changelogu]]
 
+## Autorská práva na zvuk nevlastním, do konce týdne budou stopy nahrazeny vlastním podcastem ( napsáno 25.2. 2025)
