@@ -1,6 +1,8 @@
 > Changelog využívá upravený semantic versioning https://semver.org/
 
 
+## Verze 0.4.1
+- kosmetická úprava strany pdf
 ## Verze 0.4.0 (25.2.)
 - Otázky a odpovědi
 - Sada stránek
