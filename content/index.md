@@ -19,7 +19,7 @@ Další dvě kolonky pak obsahují [[Changelog]] a informace [[O projektu]]
 ## Propojování stránek
 Kouzlo Quartzu spočívá v propojování stránek, aniž by musel uživatel tuto stránku rozkliknout (zejména na počítači, na telefonu to chce trochu šikovnosti).
 
-**Stačí položit myš na modře podbarvené pole a objeví se další okno**
+**Stačí položit myš na modře podbarvené pole a objeví se další okno (v mobilní verzi to nejde, protože jak byste na to klikali žeo... tam tedy klik znamená novou stránku**
 
 ![[obrázek.png]]
 
